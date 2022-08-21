@@ -18,6 +18,8 @@ namespace BackEnd.Controllers
         private readonly IMapper mapper;
         protected ResponseDto _response;
 
+        //repositorios
+
         public Clientes(IClienteRepositorio clienteRepositorio,IMapper mapper)
         {
             this.clienteRepositorio = clienteRepositorio;
