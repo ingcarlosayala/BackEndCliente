@@ -1,0 +1,17 @@
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\bin\Debug\net6.0\Infraestructura.deps.json
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\bin\Debug\net6.0\Infraestructura.dll
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\bin\Debug\net6.0\ref\Infraestructura.dll
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\bin\Debug\net6.0\Infraestructura.pdb
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\obj\Debug\net6.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\obj\Debug\net6.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\obj\Debug\net6.0\Infraestructura.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\obj\Debug\net6.0\Infraestructura.dll
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\obj\Debug\net6.0\ref\Infraestructura.dll
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\obj\Debug\net6.0\Infraestructura.pdb
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\bin\Debug\net6.0\Infraestructura.runtimeconfig.json
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\bin\Debug\net6.0\Core.dll
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\bin\Debug\net6.0\Core.pdb
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Escritorio\ApiCliente\BackEnd\Infraestructura\obj\Debug\net6.0\Infraestructura.genruntimeconfig.cache
